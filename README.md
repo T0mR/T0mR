@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Where to find me
+
+https://www.linkedin.com/in/thomas-reed27/
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0mr)](https://github.com/anuraghazra/github-readme-stats)
 
