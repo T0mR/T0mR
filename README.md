@@ -23,7 +23,7 @@ https://www.linkedin.com/in/thomas-reed27/
 
 ### Test
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<t0mr>&theme=<THEME_NAME>" />
 
 
 
