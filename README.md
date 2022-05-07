@@ -15,24 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Where to find me
-
-https://www.linkedin.com/in/thomas-reed27/
-
-
-
-### Test
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<t0mr>&theme=<THEME_NAME>" />
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0mr)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
