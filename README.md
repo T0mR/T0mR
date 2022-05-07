@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+
+
+
 <!--
 **t0mr/t0mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +21,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
